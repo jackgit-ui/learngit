@@ -3,7 +3,7 @@
 
 int main()
 {
-	system("top");
+	system("ls");
 
 	return 0;
 }
